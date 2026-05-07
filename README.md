@@ -42,17 +42,23 @@ This screenshot shows the Network Security Group configuration and security rule
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1056" height="601" alt="Screenshot 2026-05-07 at 11 05 01 AM" src="https://github.com/user-attachments/assets/96d884b8-e974-4713-9bac-d8f77bbcd25e" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot demonstrates traffic inspection between Azure virtual machines by testing connectivity after modifying NSG rules.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1084" height="464" alt="Screenshot 2026-05-07 at 10 58 56 AM" src="https://github.com/user-attachments/assets/8b505e52-d82b-4868-9797-b82950e739f5" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot shows a custom NSG rule configured to block specific inbound traffic between Azure virtual machines.
 </p>
 <br />
+
+<img width="1245" height="734" alt="Screenshot 2026-05-07 at 11 02 53 AM" src="https://github.com/user-attachments/assets/cb8c5590-c0df-48f5-a2cb-e932783e9234" />
+
+This screenshot confirms that the NSG rule successfully blocked network traffic between the virtual machines.
